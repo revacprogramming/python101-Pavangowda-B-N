@@ -1,3 +1,4 @@
 # Why Program
 
-prinq("hello world")
+# the code below almost works
+print("hello world")
